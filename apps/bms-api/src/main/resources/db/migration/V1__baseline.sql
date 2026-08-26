@@ -1,0 +1,2 @@
+-- BMS database baseline.
+-- Domain tables are introduced by later Flyway migrations.

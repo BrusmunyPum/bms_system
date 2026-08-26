@@ -1,0 +1,19 @@
+.env
+.idea/
+.vscode/
+*.log
+.DS_Store
+*.tmp
+
+# Build and Dependencies
+node_modules/
+dist/
+.angular/
+target/
+*.class
+*.jar
+.codex/
+.gemini/
+# AI and IDE Settings
+.codex/
+.gemini/
